@@ -1,3 +1,6 @@
+#intern I'd
+CITS6209
+
 # Digital Thermometer with LCD
 
 This project measures temperature using an LM35 sensor and displays it on a 16x2 LCD.
